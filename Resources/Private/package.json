@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "node esbuild.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.5"
+  },
+  "dependencies": {
+    "plow-js": "^3.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+Neos:
+  Neos:
+    Ui:
+      resources:
+        javascript:
+          'MhsDesign.PolyfillNeosUiPlowJs':
+            resource: 'resource://MhsDesign.PolyfillNeosUiPlowJs/Public/Plugin.js'
+            position: 'start 850'
